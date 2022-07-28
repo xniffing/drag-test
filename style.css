@@ -1,0 +1,19 @@
+.container {
+  width: 100vw;
+  height: 100vh;
+  touch-action: none;
+}
+.box {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}
+
+.follow-element {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  padding: 10px;
+}
